@@ -1,4 +1,4 @@
-![Khulnasoft logo](https://avatars3.githubusercontent.com/u/12783832?s=200&v=4)
+![Khulnasoft logo](https://avatars3.githubusercontent.com/u/43526139?s=200&v=4)
 
 # Terraform-azure-onboarding
 [![Release](https://img.shields.io/github/v/release/khulnasoft/terraform-azure-onboarding)](https://github.com/khulnasoft/terraform-azure-onboarding/releases)
